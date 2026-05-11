@@ -1,0 +1,1 @@
+- Testeingabe (testeingabe): titel[string/text], beschreibung[string/textarea], datum[date/date], nummer[number], status[lookup/radio]
